@@ -5,12 +5,13 @@ on:
     branches:
       - master
 
+defaults:
+  run: 
+    working-directory: ./suyamSite
+        
 jobs:
   deploy:
     runs-on: ubuntu-18.04
-    defaults:
-      run: 
-        working-directory: ./suyamSite
     steps:
       - uses: actions/checkout@v2
         with:
