@@ -5,179 +5,108 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Blog Post
+  label: Events
 - type: directory
-  path: exampleSite/content/english/blog
-  label: Post (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - post
-- type: directory
-  path: exampleSite/content/french/blog
-  label: Post (fr)
+  path: suyamSite/content/english/events
+  label: Events (en)
   create: documents
   match: "**/*"
   templates:
   - post
 - type: heading
-  label: Author
+  label: Organisation
 - type: directory
-  path: exampleSite/content/english/author
-  label: Author (en)
+  path: suyamSite/content/english/organisation
+  label: Organisation (en)
   create: documents
   match: "**/*"
   templates:
-  - author
-- type: directory
-  path: exampleSite/content/french/author
-  label: Author (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
+  - organisation
 - type: heading
-  label: Course
+  label: Projects
 - type: directory
-  path: exampleSite/content/english/course
+  path: suyamSite/content/english/projects
   label: Course (en)
   create: documents
   match: "**/*"
   templates:
-  - course
-- type: directory
-  path: exampleSite/content/french/course
-  label: Course (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - course
+  - projects
 - type: heading
-  label: Notice
+  label: Activities
 - type: directory
-  path: exampleSite/content/english/notice
-  label: Notice (en)
+  path: suyamSite/content/english/activities
+  label: Activities (en)
   create: all
   match: "**/*"
   templates:
-  - notice
-- type: directory
-  path: exampleSite/content/french/notice
-  label: Notice (fr)
-  create: all
-  match: "**/*"
-  templates:
-  - notice
+  - activity
 - type: heading
-  label: Teacher
+  label: Awards
 - type: directory
-  path: exampleSite/content/english/teacher
-  label: Teacher (en)
+  path: suyamSite/content/english/awards
+  label: Awards (en)
   create: all
   match: "**/*"
   templates:
-  - teacher
-- type: directory
-  path: exampleSite/content/french/teacher
-  label: Teacher (fr)
-  create: all
-  match: "**/*"
-  templates:
-  - teacher
+  - awards
 - type: heading
   label: Event
 - type: directory
-  path: exampleSite/content/english/event
+  path: suyamSite/content/english/event
   label: Event (en)
   create: all
   match: "**/*"
   templates:
   - event
-- type: directory
-  path: exampleSite/content/french/event
-  label: Event (fr)
-  create: all
-  match: "**/*"
-  templates:
-  - event
 - type: heading
-  label: Research
+  label: Donate
 - type: directory
-  path: exampleSite/content/english/research
-  label: Research (en)
+  path: suyamSite/content/english/donate
+  label: Donate (en)
   create: all
   match: "**/*"
   templates:
-  - research
-- type: directory
-  path: exampleSite/content/french/research
-  label: Research (fr)
-  create: all
-  match: "**/*"
-  templates:
-  - research
+  - donate
 - type: heading
-  label: Scholarship
+  label: Volunteers
 - type: directory
-  path: exampleSite/content/english/scholarship
-  label: Scholarship (en)
+  path: suyamSite/content/english/volunteers
+  label: Volunteers (en)
   create: all
   match: "**/*"
   templates:
-  - scholarship
+  - volunteers
+- type: heading
+  label: Gallery
 - type: directory
-  path: exampleSite/content/french/scholarship
-  label: Scholarship (fr)
+  path: suyamSite/content/english/gallery
+  label: Gallery (en)
   create: all
   match: "**/*"
   templates:
-  - scholarship
+  - gallery
 - type: heading
   label: Others Pages
 - type: directory
-  path: exampleSite/content/english/about
+  path: suyamSite/content/english/about
   label: About (en)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/about
-  label: About (fr)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/contact
+  path: suyamSite/content/english/contact
   label: Contact (en)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/contact
-  label: Contact (fr)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/pages
+  path: suyamSite/content/english/pages
   label: Created Pages (en)
   create: documents
   match: "**/*"
   templates:
   - new-page
 - type: directory
-  path: exampleSite/content/french/pages
-  label: Created Pages (fr)
-  create: all
-  match: "**/*"
-  templates:
-  - new-page
-- type: directory
-  path: exampleSite/content/english
+  path: suyamSite/content/english
   label: All Pages (en)
-  create: all
-  match: "**/*"
-  templates:
-  - new-page
-- type: directory
-  path: exampleSite/content/french
-  label: All Pages (fr)
   create: all
   match: "**/*"
   templates:
@@ -185,29 +114,24 @@ sections:
 - type: heading
   label: Data
 - type: directory
-  path: exampleSite/data/en
+  path: suyamSite/data/en
   label: Data (en)
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/data/fr
-  label: Data (fr)
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/i18n
+  path: suyamSite/i18n
   label: i18n
   create: documents
   match: "**/*"
 - type: heading
   label: Configuration
 - type: directory
-  path: exampleSite
+  path: suyamSite
   label: Configuration
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: exampleSite/static/images
+upload_dir: suyamSite/static/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
