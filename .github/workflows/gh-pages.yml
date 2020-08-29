@@ -21,7 +21,7 @@ jobs:
 
       - name: Build
         working-directory: ./suyamSite
-        run: hugo --minify
+        run: hugo --minify --themesDir ../..
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
