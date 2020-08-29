@@ -22,6 +22,7 @@ jobs:
           hugo-version: '0.74.3'
 
       - name: Build
+        working-directory: ./suyamSite
         run: hugo --minify --themesDir ../..
 
       - name: Deploy
