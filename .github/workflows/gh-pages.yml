@@ -8,8 +8,9 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-18.04
-    env:
-      working-directory: ./suyamSite
+    defaults:
+      run: 
+        working-directory: ./suyamSite
     steps:
       - uses: actions/checkout@v2
         with:
@@ -22,7 +23,6 @@ jobs:
           hugo-version: '0.74.3'
 
       - name: Build
-        working-directory: ./suyamSite
         run: hugo --minify --themesDir ../..
 
       - name: Deploy
