@@ -45,8 +45,8 @@ link = "plugins/google-map/gmap.js"
 
 # main menu
 [[menu.main]]
-name = "About"
-URL = "about"
+name = "appeals"
+URL = "appeals"
 weight = 1
 
 [[menu.main]]
@@ -55,8 +55,8 @@ URL = "activities"
 weight = 2
 
 [[menu.main]]
-name = "projects"
-URL = "projects"
+name = "donate"
+URL = "donate"
 weight = 3
 
 [[menu.main]]
@@ -65,51 +65,51 @@ URL = "awards"
 weight = 4
 
 [[menu.main]]
-name = "donate"
-URL = "donate"
-weight = 4
-
-[[menu.main]]
-name = "volunteers"
-URL = "volunteers"
 weight = 5
-
-[[menu.main]]
-weight = 6
-name = "Pages"
+name = "About"
 hasChildren = true
 
   [[menu.main]]
-  parent = "Pages"
-  name = "gallery"
-  URL = "gallery"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "history"
-  URL = "history"
-
-  [[menu.main]]
-  parent = "Pages"
+  parent = "About"
   name = "organisation"
   URL = "organisation"
+  weight = 7
   
   [[menu.main]]
-  parent = "Pages"
-  name = "staff"
-  URL = "staff"
+  parent = "About"
+  name = "gallery"
+  URL = "gallery"
+  weight = 8
+
+  [[menu.main]]
+  parent = "About"
+  name = "volunteers"
+  URL = "volunteers"
+  weight = 9
+
+  [[menu.main]]
+  parent = "About"
+  name = "history"
+  URL = "history"
+  weight = 10
+
+  [[menu.main]]
+  parent = "About"
+  name = "financial reports"
+  URL = "fin_reports"
+  weight = 11
   
 [[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 7
+weight = 6
 
 
 # footer menu
 
 [[menu.footer]]
-name = "projects"
-URL = "projects"
+name = "appeals"
+URL = "appeals"
 
 [[menu.footer]]
 name = "activities"
@@ -118,6 +118,10 @@ URL = "activities"
 [[menu.footer]]
 name = "donate"
 URL = "donate"
+
+[[menu.footer]]
+name = "organisation"
+URL = "organisation"
 
 
 #################### default parameters ################################
@@ -128,7 +132,7 @@ description = "Suyam charitable trust"
 author = "Suyam web team"
 # contact info
 address = "Suyam Charitable Trust"
-mobile = "+91 1234565523"
+mobile = "+91 98403 65819"
 email = "info@suyam.org"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
@@ -171,6 +175,11 @@ link = "#"
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+title = "youtube"
+icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 

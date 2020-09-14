@@ -1,49 +1,49 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/banner-1.jpg"
+  bg_image : "images/banner/s1.jpg"
   slider_item:
     # slider item loop
-    - title : "Suyam project - 1"
-      content : "Lorem ipsum dolor sit ameti - 1"
+    - title : "Appeal for food provisions"
+      content : "We are in need of rice, provisions and groceries for residential children of Siragu."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
         label : "More"
-        link : "projects"
+        link : "appeals"
 
     # slider item loop
-    - title : "Suyam project - 2"
-      content : "Lorem ipsum dolor sit ameti - 2"
+    - title : "Campaigns in progress"
+      content : "We are currently in several campaigns to raise funds for our projects"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
         label : "More"
-        link : "projects"
+        link : "donate"
 
     # slider item loop
-    - title : "Suyam's mission - 3"
-      content : "Lorem ipsum dolor sit ameti - 3"
+    - title : "Our school"
+      content : "We run two schools in Vyasarpadi and Avadi. We are proud of our school, our children and the staff who run them. "
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
         label : "More"
-        link : "projects"
+        link : "organisation"
 
 
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
-  image : "images/banner/banner-feature.png"
+  image : "images/banner/suyam-feature.png"
   feature_item:
     # feature item loop
-    - name : "Latest News"
+    - name : "Our Campaigns"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
@@ -53,7 +53,7 @@ banner_feature:
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
     # feature item loop
-    - name : "Our Achievements"
+    - name : "Appeals"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
@@ -68,10 +68,7 @@ about:
   enable : true
   title : "About Suyam"
   image : "images/about/about-us.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
-
-
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  content : "Suyam Charitable Trust (or 'Suyam') was founded in 1995 by two Dr. Uma and Muthu. The school started off as a small project to educate local children from poorer backgrounds ..."
   button:
     enable : true
     label : "Learn more"
@@ -81,13 +78,13 @@ about:
 ############################# Activities ################################
 activities:
   enable : true
-  title : "Our Activities"
+  title : "Our Appeals"
   # course item comes from "content/**/activities" folder.
 
 ############################# Projects ################################
 projects:
   enable : true
-  title : "Our Projects"
+  title : "Our Activities"
   # course item comes from "content/**/projects" folder.
 
 ############################# Activities ################################
@@ -108,7 +105,7 @@ success_story:
   ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
   dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
   # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+  video_link : "https://www.youtube.com/RP3KSvXFj4Y"
 
 
 ########################### funfacts ############################
