@@ -8,7 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Our Bharathamata school in Vyasarpadi has a strength of about 50 students, and 10 
 teaching staff. This is a primary school and is based on ICSE syllabus"
 # post thumbnail
-image: "images/blog/post-1.jpg"
+image: "images/organisation/post-1.jpg"
 # taxonomy
 categories: ["School"]
 tags: ["School", "Vysarpadi", "Bharathamata"]

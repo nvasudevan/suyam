@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Staff on Suyam | Suyam Charity template</title>
+    <link>http://navkrish.net/suyam/staff/</link>
+    <description>Recent content in Staff on Suyam | Suyam Charity template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
+    
+	<atom:link href="http://navkrish.net/suyam/staff/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Muthu</title>
+      <link>http://navkrish.net/suyam/staff/muthu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://navkrish.net/suyam/staff/muthu/</guid>
+      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Uma</title>
+      <link>http://navkrish.net/suyam/staff/uma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://navkrish.net/suyam/staff/uma/</guid>
+      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>

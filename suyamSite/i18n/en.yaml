@@ -88,6 +88,12 @@
 - id: awards
   translation: Awards
 
+- id: activities
+  translation: Activities
+
+- id: donate
+  translation: Donate
+
 - id: events
   translation: Events
 

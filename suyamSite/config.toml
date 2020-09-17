@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://nvasudevan.github.io"
+baseURL = "http://navkrish.net/suyam"
 title = "Suyam | Suyam Charity template"
 theme = "suyam"
 # post pagination
@@ -45,18 +45,18 @@ link = "plugins/google-map/gmap.js"
 
 # main menu
 [[menu.main]]
+name = "donate"
+URL = "donate"
+weight = 1
+
+[[menu.main]]
 name = "appeals"
 URL = "appeals"
-weight = 1
+weight = 2
 
 [[menu.main]]
 name = "activities"
 URL = "activities"
-weight = 2
-
-[[menu.main]]
-name = "donate"
-URL = "donate"
 weight = 3
 
 [[menu.main]]

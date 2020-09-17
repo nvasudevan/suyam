@@ -1,18 +1,21 @@
 ---
-title: "Donate"
+title: "Fund Siragu Montessori School"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "COVID-19 campaign"
+description : "Campaign to fund Siragu Montessori School"
 # Research image
-image: "images/research/research-1.jpg"
+image: "images/donate/post-1.jpg"
+# taxonomy
+categories: ["Donate"]
+tags: ["Campaign", "Donate", "Giveindia", "Siragu", "School"]
 # type
-type: "research"
+type: "post"
 ---
 
-### About Research
+### About Campaign
 
+Campaign to donate to Siragu Montessori School. 
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.

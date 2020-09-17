@@ -8,7 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Our school in Avadi has a strength of about 100 students, and 20 
 teaching staff. This is both a primary and a seconday school combined and is based on ICSE syllabus"
 # post thumbnail
-image: "images/blog/post-1.jpg"
+image: "images/organisation/post-2.jpg"
 # taxonomy
 categories: ["School"]
 tags: ["School", "Avadi"]

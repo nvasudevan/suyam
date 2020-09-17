@@ -4,17 +4,6 @@ slider:
   bg_image : "images/banner/s1.jpg"
   slider_item:
     # slider item loop
-    - title : "Appeal for food provisions"
-      content : "We are in need of rice, provisions and groceries for residential children of Siragu."
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "More"
-        link : "appeals"
-
-    # slider item loop
     - title : "Campaigns in progress"
       content : "We are currently in several campaigns to raise funds for our projects"
       animation_in : "left"
@@ -24,6 +13,17 @@ slider:
         enable : true
         label : "More"
         link : "donate"
+
+    # slider item loop
+    - title : "Appeal for food provisions"
+      content : "We are in need of rice, provisions and groceries for residential children of Siragu."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "More"
+        link : "appeals"
 
     # slider item loop
     - title : "Our school"
