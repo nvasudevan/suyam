@@ -3,7 +3,9 @@ title: "Vocational service award"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/blog/post-1.jpg"
+bg_image: "images/backgrounds/page-title.jpg"
+# post thumbnail
+image: "images/blog/post-1.jpg"
 # meta description
 description : "Our founder Dr. Uma was awarded by Rotary Club of Chennai Downtown on March 8 2019"
 # notice download link
