@@ -1,18 +1,33 @@
 ---
-title: "Donate"
+title: "COVID-19 Relief"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/gallery/banner-2.jpg"
 # meta description
 description : "COVID-19 campaign"
+# taxonomy
+categories: ["Donate"]
+tags: ["giveindia", "covid"]
 # Research image
-image: "images/research/research-1.jpg"
+image: "images/gallery/covid-relief.png"
+# donate url
+donate_url : "https://fundraisers.giveindia.org/campaigns/covid19-relief-work-by-suyam"
 # type
-type: "research"
+type: "donate"
 ---
 
-### About Research
+### COVID-19 Campaign
 
+Muthuram, Founder Trustee of Suyam created this Campaign to support 
+families/people/children who are affected due to COVID-19 lock down and it's 
+direct and indirect challenges. It's a battle period for everyone. When calls 
+come from various sectors of community asking for help, we knock the doors of 
+donors and well wishers and seek support to reach the benefits to Slum 
+dwellers, Nomadic Tribes, Irulas, Migrant Workers and more.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+So far over 2 million+ Lives Impacted through various relief activities and 
+also get into rehabilitation support etc. Let's join together to reach out 
+support to more families through various modes of support.
+
+Donations to this NGO have 50% tax exemption for Indian donors.

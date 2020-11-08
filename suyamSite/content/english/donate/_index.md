@@ -1,9 +1,8 @@
 ---
-title: "Donations"
+title: "Campaigns"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/gallery/banner-2.jpg"
 # meta description
-description : "We run several campaigns active at present, and we would be 
-grateful for your donations"
+description : "We have several campaigns active at present, and we would be grateful for your donations"
 ---

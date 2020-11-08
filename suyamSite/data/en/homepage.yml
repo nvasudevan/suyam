@@ -1,7 +1,7 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/s1.jpg"
+  bg_image : "images/gallery/banner-1.jpg"
   slider_item:
     # slider item loop
     - title : "Appeal for food provisions"
@@ -22,7 +22,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "More"
+        label : "Donate now"
         link : "donate"
 
     # slider item loop
@@ -40,7 +40,7 @@ slider:
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
-  image : "images/banner/suyam-feature.png"
+  image : "images/gallery/siragu-happy-learning.jpg"
   feature_item:
     # feature item loop
     - name : "Our Campaigns"
@@ -67,7 +67,7 @@ banner_feature:
 about:
   enable : true
   title : "About Suyam"
-  image : "images/about/about-us.jpg"
+  video_link : "videos/suyam-summary.mp4"
   content : "Suyam Charitable Trust (or 'Suyam') was founded in 1995 by two Dr. Uma and Muthu. The school started off as a small project to educate local children from poorer backgrounds ..."
   button:
     enable : true
@@ -79,19 +79,19 @@ about:
 activities:
   enable : true
   title : "Our Appeals"
-  # course item comes from "content/**/activities" folder.
+  # activities item comes from "content/**/activities" folder.
 
-############################# Projects ################################
-projects:
+############################# Campaigns ################################
+donate:
   enable : true
-  title : "Our Activities"
-  # course item comes from "content/**/projects" folder.
+  title : "Our Compaigns"
+  # campaign item comes from "content/**/donate" folder.
 
-############################# Activities ################################
+############################# Awards ################################
 awards:
   enable : true
   title : "Awards and Achievements"
-  # course item comes from "content/**/awards" folder.
+  # award item comes from "content/**/awards" folder.
 
 
 ######################## Success story #############################
@@ -99,13 +99,10 @@ success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  content : "Suyam slate 2017"
   # video link
-  video_link : "https://www.youtube.com/RP3KSvXFj4Y"
+  #video_link : "https://www.youtube.com/embed/cwlfKosttSw"
+  video_link : "https://www.youtube.com/embed/RP3KSvXFj4Y"
 
 
 ########################### funfacts ############################

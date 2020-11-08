@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Suyam Alumni meet up in Avadi."
 # course thumbnail
-image: "images/blog/post-2.jpg"
+image: "images/gallery/siragu-school-kids-4.png"
 # taxonomy
 categories: ["Activity"]
 tags: ["Alumni", "Social"]

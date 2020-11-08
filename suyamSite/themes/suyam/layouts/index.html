@@ -72,11 +72,11 @@
         {{ end }}
         {{ end }}
       </div>
-      {{ with .image }}
-      <div class="col-md-6 order-1 order-md-2 mb-4 mb-md-0">
-        <img class="img-fluid w-100" src="{{ . | absURL }}" alt="about image">
+      <div class="col-lg-6 col-sm-4 position-relative success-video">
+        <a class="play-btn venobox" href="{{ .video_link | safeURL }}" data-vbtype="video">
+          <i class="ti-control-play"></i>
+        </a>
       </div>
-      {{ end }}
     </div>
   </div>
 </section>
@@ -84,41 +84,41 @@
 {{ end }}
 <!-- /about us -->
 
-<!-- courses -->
-{{ if $data.homepage.course.enable }}
+<!-- donate -->
+{{ if $data.homepage.donate.enable }}
 <section class="section-sm">
   <div class="container">
     <div class="row">
       <div class="col-12">
         <div class="d-flex align-items-center section-title justify-content-between">
-          <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.course.title }}</h2>
+          <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.donate.title }}</h2>
           <div class="border-top w-100 border-primary d-none d-sm-block"></div>
           <div>
-            <a href="{{ `course` | relLangURL }}" class="btn btn-sm btn-primary-outline ml-sm-3 d-none d-sm-block">{{ i18n "see_all" }}</a>
+            <a href="{{ `donate` | relLangURL }}" class="btn btn-sm btn-primary-outline ml-sm-3 d-none d-sm-block">{{ i18n "see_all" }}</a>
           </div>
         </div>
       </div>
     </div>
-    <!-- course list -->
+    <!-- donate list -->
     <div class="row justify-content-center">
-      <!-- course item -->
-      {{ range first 6 (where site.RegularPages "Type" "course")}}
+      <!-- donate item -->
+      {{ range first 6 (where site.RegularPages "Type" "donate")}}
       <div class="col-lg-4 col-sm-6 mb-5">
-        {{ .Render "course" }}
+        {{ .Render "donate" }}
       </div>
       {{ end }}
     </div>
-    <!-- /course list -->
+    <!-- /donate list -->
     <!-- mobile see all button -->
     <div class="row">
       <div class="col-12 text-center">
-        <a href="{{ `course` | relLangURL }}" class="btn btn-sm btn-primary-outline d-sm-none d-inline-block">{{ i18n "see_all" }}</a>
+        <a href="{{ `donate` | relLangURL }}" class="btn btn-sm btn-primary-outline d-sm-none d-inline-block">{{ i18n "see_all" }}</a>
       </div>
     </div>
   </div>
 </section>
 {{ end }}
-<!-- /courses -->
+<!-- /donate -->
 
 <!-- cta -->
 {{ if $data.homepage.cta.enable }}

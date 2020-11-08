@@ -5,12 +5,12 @@
   <div class="container">
     <div class="row">
       <div class="col-12 mb-4">
-        <!-- course thumb -->
+        <!-- campaigns thumb -->
         <img style="height: 500px;width: 100%;object-fit: cover;" src="{{ .Params.Image | relURL }}"
           class="img-fluid w-100">
       </div>
     </div>
-    <!-- course info -->
+    <!-- campaigns info -->
     <div class="row align-items-center mb-5">
       <div class="col-xl-3 order-1 col-sm-6 mb-4 mb-xl-0">
         <h2>{{ .Title }}</h2>
@@ -47,7 +47,7 @@
         </ul>
       </div>
       <div class="col-xl-3 text-sm-right text-left order-sm-2 order-3 order-xl-3 col-sm-6 mb-4 mb-xl-0">
-        <a href="{{ .Params.Apply_url | safeURL }}" class="btn btn-primary">{{ i18n "apply_now" }}</a>
+        <a href="{{ .Params.Donate_url | safeURL }}" class="btn btn-primary">{{ i18n "donate_now" }}</a>
       </div>
       <!-- border -->
       <div class="col-12 mt-4 order-4">

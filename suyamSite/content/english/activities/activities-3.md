@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Chennai Arts and Crafts Festival"
 # course thumbnail
-image: "images/blog/post-3.jpg"
+image: "images/gallery/siragu-school-kids-2.png"
 # taxonomy
 categories: ["Activity"]
 tags: ["Arts", "Crafts", "Festival"]

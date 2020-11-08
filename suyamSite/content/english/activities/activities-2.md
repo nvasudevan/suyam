@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Education Academy - Chennai Summit"
 # course thumbnail
-image: "images/blog/post-1.jpg"
+image: "images/gallery/siragu-exhibition-3.png"
 # taxonomy
 categories: ["Activity"]
 tags: ["Education", "Social"]

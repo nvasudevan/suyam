@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Children Painting Competition"
 # course thumbnail
-image: "images/blog/post-1.jpg"
+image: "images/gallery/siragu-exhibition-1.png"
 # taxonomy
 categories: ["Activity"]
 tags: ["Painting", "Children", "Rotary"]

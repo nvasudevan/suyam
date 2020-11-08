@@ -31,8 +31,8 @@
 - id: see_all
   translation: See all
 
-- id: apply_now
-  translation: Apply now
+- id: donate_now
+  translation: Donate
 
 - id: posted_by
   translation: Posted by
@@ -41,13 +41,16 @@
   translation: Date
 
 - id: time
-  translation: time
+  translation: Time
 
 - id: category
   translation: Category
 
-- id: related_course
-  translation: Related Course
+- id: campaigns
+  translation: Campaigns
+
+- id: donations
+  translation: Donations
 
 - id: duration
   translation: duration
@@ -58,9 +61,6 @@
 - id: fee
   translation: fee
 
-- id: teacher
-  translation: teacher
-
 - id: location
   translation: location
 
@@ -69,6 +69,12 @@
 
 - id: event_speaker
   translation: Event Speakers
+
+- id: history
+  translation: History
+
+- id: download
+  translation: Download
 
 - id: more_event
   translation: More Events
@@ -115,8 +121,6 @@
 - id: staff
   translation: Staff
 
-- id: history
-  translation: History
+- id: volunteer
+  translation: Volunteer
 
-- id: download
-  translation: Download
