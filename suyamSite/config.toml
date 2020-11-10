@@ -95,8 +95,8 @@ hasChildren = true
 
   [[menu.main]]
   parent = "About"
-  name = "financial reports"
-  URL = "fin_reports"
+  name = "financials"
+  URL = "financials"
   weight = 11
   
 [[menu.main]]

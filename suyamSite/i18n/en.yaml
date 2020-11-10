@@ -1,3 +1,6 @@
+- id: activities
+  translation: Activities
+
 - id: read_more
   translation: Read More
 
@@ -120,6 +123,12 @@
 
 - id: staff
   translation: Staff
+
+- id: trust
+  translation: Trust
+
+- id: organisation
+  translation: Organisation
 
 - id: volunteer
   translation: Volunteer

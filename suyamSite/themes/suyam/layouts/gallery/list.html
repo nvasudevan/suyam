@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+<!-- campaigns -->
+<section class="section">
+  <div class="container">
+    <!-- campaign list -->
+    <div class="row justify-content-center">
+      <!-- campaign item -->
+      {{ range .Data.Pages }}
+      <div class="col-lg-4 col-sm-6 mb-5">
+        {{ .Render "more" }}
+      </div>
+      {{ end }}
+    </div>
+    <!-- /campaign list -->
+  </div>
+</section>
+<!-- /campaigns -->
+
+{{ end }}
