@@ -97,12 +97,16 @@ awards:
 ######################## Success story #############################
 success_story:
   enable : true
-  bg_image : "images/backgrounds/success-story.jpg"
-  title : "Success Stories"
-  content : "Suyam slate 2017"
-  # video link
-  #video_link : "https://www.youtube.com/embed/cwlfKosttSw"
-  video_link : "https://www.youtube.com/embed/RP3KSvXFj4Y"
+  title : "Our Success Stories"
+  # story item comes from "content/**/success_story" folder.
+
+#  enable : true
+#  bg_image : "images/backgrounds/success-story.jpg"
+#  title : "Success Stories"
+#  content : "Suyam slate 2017"
+#  # video link
+#  #video_link : "https://www.youtube.com/embed/cwlfKosttSw"
+#  video_link : "https://www.youtube.com/embed/RP3KSvXFj4Y"
 
 
 ########################### funfacts ############################

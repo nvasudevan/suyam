@@ -4,6 +4,9 @@
 - id: read_more
   translation: Read More
 
+- id: succes_story
+  translation: Sucess Story
+
 - id: contact_form
   translation: Contact Form
 

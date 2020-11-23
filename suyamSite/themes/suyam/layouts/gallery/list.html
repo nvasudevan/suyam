@@ -1,20 +1,20 @@
 {{ define "main" }}
 
-<!-- campaigns -->
+{{ $data := index site.Data site.Language.Lang }}
+
+<!-- about -->
 <section class="section">
   <div class="container">
-    <!-- campaign list -->
-    <div class="row justify-content-center">
-      <!-- campaign item -->
-      {{ range .Data.Pages }}
-      <div class="col-lg-4 col-sm-6 mb-5">
-        {{ .Render "more" }}
+    <div class="row">
+      <div class="col-12">
+        {{ with .Params.Image }}
+        <img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="about image">
+        {{ end }}
+        {{ .Content }}
       </div>
-      {{ end }}
     </div>
-    <!-- /campaign list -->
   </div>
 </section>
-<!-- /campaigns -->
+<!-- /about -->
 
 {{ end }}

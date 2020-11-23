@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+<!-- success_story -->
+<section class="section">
+  <div class="container">
+    <!-- success_story list -->
+    <div class="row justify-content-center">
+      <!-- success_story item -->
+      {{ range .Data.Pages }}
+      <div class="col-lg-4 col-sm-6 mb-5">
+        {{ .Render "success_story" }}
+      </div>
+      {{ end }}
+    </div>
+    <!-- /success_story list -->
+  </div>
+</section>
+<!-- /success_story -->
+
+{{ end }}
