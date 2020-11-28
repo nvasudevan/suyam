@@ -1,6 +1,9 @@
 - id: activities
   translation: Activities
 
+- id: more
+  translation: More
+
 - id: read_more
   translation: Read More
 
