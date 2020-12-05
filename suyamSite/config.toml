@@ -133,7 +133,7 @@ author = "Suyam web team"
 # contact info
 address = "Suyam Charitable Trust"
 mobile = "+91 98403 65819"
-email = "info@suyam.org"
+email = "muthuram@suyam.org"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
