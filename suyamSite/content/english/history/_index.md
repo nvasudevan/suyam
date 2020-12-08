@@ -12,45 +12,47 @@ description : "Our history, how we came about to be?"
 ### How we started?
 
 Suyam started unofficially as a team of volunteers in 1987. We officially 
-registered as a public charitable trust in 1999 by Dr. Uma and Muthuram.
-In initial days, we began with educating primary children, evening tuitions,
-kids entertainment activities, smaller sports activities. We then moved onto
-youth programs, creative stimulation camps, blood donation camps, eye donation 
-awareness camps. Dr. Uma, being a scout ranger, formed VISHAL ranger team and 
-engaged in various social activities. We also carried out several social 
-activities, and forest trekkings. After gaining experience in social 
-activities for over 12 years, in 1999 we registed as Suyam Charitable trust.   
+registered as a public charitable trust in 1999 by Dr. Uma and Muthuram. Our 
+main objective was to provide education to children at primary schools, to 
+provide additional tuitions, entertainment activities, and organise sports 
+activities. We then extended our activities to include youth programs, creative 
+stimulation camps, blood donation camps, and eye donation awareness camps. Dr.  
+Uma, being a scout ranger, formed VISHAL ranger team. The VISHAL team organised 
+several social activities, and forest trekkings. In 1999, after having served 
+our local comminities over 12 years, we registed as 'Suyam Charitable 
+trust'.   
 
-Suyam's main focus has been and still is education, medical assistance and 
-various awareness activities. All of our activities fall under these three 
-activities. We met 50 families who were begging in Chennai city and started 
-focussing on them, educating them and various other weekend activities.
+Suyam's activities fall under three areas: education, medical assistance and 
+awareness activities.
 
-After 4 years, the families understood and accepted our support and started 
-listening us. Based on their request, 40 kms away from Chennai City at their 
-locality near IAF Avadi, in a rented premises, we started Siragu Montessori 
-School with 30 children in 2003. In July 2003, the then Honourable ex-Governor 
-of Tamil Nadu, Mr. P S Ram Mohan Rao visited Siragu and appreciated the efforts 
-taken by Suyam. In September 2004, in an unfortunate fire accident, the school 
-as totally burnt down. However, the fire accident didn't dampen our spirit and 
-within two days, we reset the school in another village. After 6 months, we 
-moved to our own land at Palavedu Pettai village, IAF Avadi, Chennai-55.
+Our earliest memory was when we met a group of 50 families found begging in 
+Chennai. We helped these families by providing education and organising various  
+weekend activities. Initially there were tentative with our help but after 4 
+years, the families began to appreciate our work, and started engaging with us.  
+Based on their feedback, we rented a small premise to start Siragu Montessory 
+School with just 30 children, 40 kms away from Chennai City at a small village 
+near IAF Avadi. In July 2003, the then Honourable ex-Governor of Tamil Nadu, 
+Mr. P S Ram Mohan Rao visited Siragu and appreciated the efforts taken by 
+Suyam. In September 2004, in an unfortunate fire accident, the school was 
+totally burnt down. However, the fire accident didn't dampen our spirit and 
+within two days, we reset the school in a neighbouring village. After 6 months, 
+we moved to our own land at Palavedu Pettai village, IAF Avadi, Chennai.
 
-Now Siragu is in 18th academic year with well over 400 children. In 2015, we 
-introduced Higher Secondary Curriculam. Over 5 batches of students have passed 
-out from Siragu. <link to success story>. By showing heartfelt gratitude, 
-Siargu alumni with available staff conducting classes for available residential 
-children even during difficult Covid times. <powerpoint presentation link to 
-google drive>.
+Now Siragu is in its 18th academic year with well over 400 children. In 2015, 
+we introduced Higher Secondary Curriculam, and since then over 5 batches of 
+students have passed out from Siragu. <link to success story>. By showing 
+heartfelt gratitude, Siagru alumni along with our staff, conduct classes for 
+available residential children (yes, even during difficult Covid times). 
+<powerpoint presentation link to google drive>.
 
 In 2017, we started our Siragu gaushala to save native breeds of India. As of 
-now we have 6 cows and 2 calves. To enhance the integrated living students of 
-Siragu with the team taking care of the gaushala.<picture> 
+now we have 6 cows and 2 calves. The residential students of Siragu run the 
+gaushala and look after the animals. <picture> 
 
-Since 2003, we have run our Siragu organic farming at our school, wherein we 
-grow organic vegetables which support Siragu kitchen. Our Industrial college 
-students help us out. We grow Methi leaves, Tomatoes, Mustard leaves 
-etc.<picture>
+Since 2003, we have run organic farming at our Siragu school. We grow organic 
+vegetables which support Siragu kitchen. We grow Methi leaves, Tomatoes, 
+Mustard leaves and so on. Our Industrial college students also help us out in 
+running our organic farm.  <picture>
 
 In 2008, we took over the management of Bharathamatha school in Vyasarapadi, 
 Chennai with a strength of 40 children. We bought the premises and 
@@ -60,9 +62,10 @@ North Chennai. As of March 2020, we have a strength of 60 children.
 In 2019, we started Siragu Industrial College to provide vocational training 
 programmes for economically deprived youths across Tamil Nadu. As of November 
 2020, we have a strength of 10 beneficiaries and its growing. All the 10 
-beneficiaries are deputed as trainees in an Organic Agri Farm in Pondicherry 
-under stipend programme. Also they are studying retail management course named 
-BVOC (Bachelors in Vocational Training). 
+beneficiaries are deputed as trainees in Organic Agri Farm based in 
+Pondicherry. The students are provided with a small stipend for support. Also 
+they are studying retail management course named BVOC (Bachelors in Vocational 
+Training). 
 
 ### Snapshot 
 
