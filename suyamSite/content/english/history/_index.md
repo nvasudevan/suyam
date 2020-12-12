@@ -1,5 +1,6 @@
 ---
 title: "History of Suyam"
+date: 2020-12-12T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -7,6 +8,8 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "images/gallery/siragu-concepts-3.png"
 # meta description
 description : "Our history, how we came about to be?"
+# type
+type: "post"
 ---
 
 ### How we started?
@@ -27,32 +30,33 @@ awareness activities.
 
 Our earliest memory was when we met a group of 50 families found begging in 
 Chennai. We helped these families by providing education and organising various  
-weekend activities. Initially there were tentative with our help but after 4 
-years, the families began to appreciate our work, and started engaging with us.  
-Based on their feedback, we rented a small premise to start Siragu Montessory 
-School with just 30 children, 40 kms away from Chennai City at a small village 
-near IAF Avadi. In July 2003, the then Honourable ex-Governor of Tamil Nadu, 
-Mr. P S Ram Mohan Rao visited Siragu and appreciated the efforts taken by 
-Suyam. In September 2004, in an unfortunate fire accident, the school was 
-totally burnt down. However, the fire accident didn't dampen our spirit and 
-within two days, we reset the school in a neighbouring village. After 6 months, 
-we moved to our own land at Palavedu Pettai village, IAF Avadi, Chennai.
+weekend activities. Initially the families were tentative with our help but 
+with time, the families began to appreciate our work, and their engagement with 
+us improved. From their feedback, we rented a small premise to start Siragu 
+Montessori School with just 30 children, 40 kms away from Chennai City at a 
+small village near IAF Avadi. In July 2003, the then ex-Governor of Tamil Nadu, 
+the Rt. Honourable Mr. P S Ram Mohan Rao visited Siragu and appreciated the 
+efforts taken by Suyam. In September 2004, in an unfortunate fire accident, our 
+school was completely destroyed be the fires. However, the fire accident didn't 
+dampen our spirit and within two days, we reset the school in a neighbouring 
+village. After 6 months, we moved to our own land at Palavedu Pettai village, 
+IAF Avadi, Chennai.
 
 Now Siragu is in its 18th academic year with well over 400 children. In 2015, 
-we introduced Higher Secondary Curriculam, and since then over 5 batches of 
-students have passed out from Siragu. <link to success story>. By showing 
-heartfelt gratitude, Siagru alumni along with our staff, conduct classes for 
-available residential children (yes, even during difficult Covid times). 
+we introduced Higher Secondary Curriculam, and since then, we have had 5 batches 
+of students pass out from Siragu. <link to success story>. By showing 
+heartfelt gratitude, Siragu alumni along with our staff, conduct classes for 
+available residential children (yes, even during the difficult Covid times).  
 <powerpoint presentation link to google drive>.
 
-In 2017, we started our Siragu gaushala to save native breeds of India. As of 
-now we have 6 cows and 2 calves. The residential students of Siragu run the 
+In 2017, we started our Siragu gaushala (cow shed) to save native breeds of 
+India. We have 6 cows and 2 calves. The residential students of Siragu manage the 
 gaushala and look after the animals. <picture> 
 
-Since 2003, we have run organic farming at our Siragu school. We grow organic 
-vegetables which support Siragu kitchen. We grow Methi leaves, Tomatoes, 
+Since 2003, we have run an organic farm at our Siragu school. We grow organic 
+vegetables which support our Siragu kitchen. We grow Methi leaves, Tomatoes, 
 Mustard leaves and so on. Our Industrial college students also help us out in 
-running our organic farm.  <picture>
+running our organic farm. <picture>
 
 In 2008, we took over the management of Bharathamatha school in Vyasarapadi, 
 Chennai with a strength of 40 children. We bought the premises and 
@@ -60,58 +64,59 @@ re-constructed the school with better facilities to educate slum dwellers of
 North Chennai. As of March 2020, we have a strength of 60 children. 
 
 In 2019, we started Siragu Industrial College to provide vocational training 
-programmes for economically deprived youths across Tamil Nadu. As of November 
-2020, we have a strength of 10 beneficiaries and its growing. All the 10 
-beneficiaries are deputed as trainees in Organic Agri Farm based in 
-Pondicherry. The students are provided with a small stipend for support. Also 
-they are studying retail management course named BVOC (Bachelors in Vocational 
-Training). 
+programmes to support economically deprived youths across Tamil Nadu. As of 
+November 2020, we have a strength of 10 beneficiaries and growing!. All the 
+beneficiaries are deputed as trainees at Organic Agri Farm based in 
+Pondicherry. The students are provided with a small stipend towards educational 
+support. Alongside their training at the farm, our students are also studying 
+retail management course named BVOC (Bachelors in Vocational Training). 
 
 ### Snapshot 
 
-In 2001, a team of ten headed by Dr. Uma camped at Bhuj, Gujarat to provide and 
-medical and educational support. We stood up tents to provide medical 
-assistance and also took classes for local children.
+In 2001, during the Gujarat earthquake, a small team (of ten volunteers) headed 
+by our founder, Dr. Uma, camped at Bhuj (a district in Gujarat) to provide 
+medical and educational support to local people. We stood up tents to provide 
+medical assistance and also took classes for local children.
 
-In 2004, Tsunami stuck Tamil Nadu coastal area. A team of volunteers headed by 
-Dr. Uma got on to the fields at Akkarai Pettai, Nagapattinam district to help 
-out local fishing comminities in clearing up dead bodies and provided medical 
-assistance and food. We also built school facilities (fences, classroom  
-furnitures, and a building as an activity center that is still functioning etc.)<pictures> 
+In 2004, Tsunami stuck several coastal areas of Tamil Nadu, India. A team of 
+volunteers headed by Uma did field work at Akkarai Pettai, Nagapattinam 
+district to help out local fishing comminities in clearing up dead bodies and 
+provided medical assistance and food. We also built school facilities (fences, 
+classroom furnitures, and an activity center) that is still functioning. 
+<pictures> 
 
 In 2006, we were actively involved in supporting communities affected by 
-floods.
-
-In 2015, we also supported communities in Tamil Nadu affected by floods. Well 
-over 10 districts, over 30,000 families were given food, dry rations, medical 
-kits, clothes, bed sheets and much more.
-
-In December 2016, various support were extended to flood victims. We donated 
-foods, clothes medical kit and much more.
+floods. In 2015, we also supported several local communities in Tamil Nadu 
+affected by floods. Well over 10 districts, over 30,000 families were given 
+food, dry rations, medical kits, clothes, bed sheets and much more.  In 
+December 2016, support were extended to flood victims - we donated foods, 
+clothes and medical kit.
 
 Since March 2020, we have been supporting communities in Chennai, Kanchipuram, 
-Tiruvallur, and Chengalpattu districts affected by Covid. More than 4.5 million 
-Rupees have been distributed in the form of food, dry ration, preventive 
-medicines, medical kits for children and babies, baby food. We also released 
-several covid awareness videos, thanks to Dr. Uma. All of our covid related 
-support activities are still ongoing.
+Tiruvallur, and Chengalpattu districts affected by Covid. We have distributed 
+over 4.5 million Rupees in the form of food, dry ration, preventive medicines, 
+medical kits for children and babies, and baby food. We have also released 
+several covid awareness videos. All of our covid related support activities are 
+still ongoing.
 
-In November 2020, the Nivar cyclone struck in the north of Tamil Nadu. We have 
-been distributing food, which is continuing as there are constant rains. 
+In November 2020, the Nivar cyclone struck the northern region of Tamil Nadu. 
+We have been distributing food, which is continuing as there are constant 
+rains. 
 
-Without the support of many our well-wishers, volunteers, philanthropist, 
-instituional and individual donors, we wouldn't have been able to achieve what 
-we have achieved so far.
+Without the support of many our well-wishers, volunteers, philanthropists, 
+instituional and individual donors, we wouldn't be here where we are supporting 
+local communites.
 
 ### Board Members
 
 Suyam is now run by a team of trustees:
 
-- Dr. V. Uma - Founder Managing Trustee
-- Mr. R. N. Muthuram - Founder Trustee 
-- Mr. K. J. Prabhu - Founder Trustee
-- Mr. Francin Prabhu - Trustee
-- Mr. C. A. Ramakrishnan - Trustee
+
+* Dr. V. Uma - Founder Managing Trustee
+* Mr. R. N. Muthuram - Founder Trustee 
+* Mr. K. J. Prabhu - Founder Trustee
+* Mr. Francin Prabhu - Trustee
+* Mr. C. A. Ramakrishnan - Trustee
 
 ### Alumni
 
