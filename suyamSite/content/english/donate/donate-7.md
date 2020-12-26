@@ -17,12 +17,16 @@ donate_url : "https://fundraisers.giveindia.org/campaigns/muthuram-founder-trust
 type: "donate"
 ---
 
-### Sponsor our Bharathamatha School
+Bharathamatha Nursery & Primary School situated in Vyasarpadi, owned & managed 
+by Suyam. A school for slum dwellers benefiting 100+ children having classes 
+from KG to V grade under the guidance and direct supervision of Educationist 
+Dr.Uma Venkatachalam, Founder Managing Trustee of Suyam. This campaign is 
+created for Operating expenses of the school.
 
-harathamatha Nursery & Primary School situated in Vyasarpadi, owned & managed by Suyam. A school for slum dwellers benefiting 100+ children having classes from KG to V grade under the guidance and direct supervision of Educationist Dr.Uma Venkatachalam, Founder Managing Trustee of Suyam. This campaign is created for Operating expenses of the school.
+Bharathamatha School management taken over by Suyam in October 2018, providing 
+quality education to deserving needy especially slum dwellers children.
 
-SUYAM Charitable Trust was started and formally registered under Trust Act (Regn. No.1163/99) in August 1999.
-
-Bharathamatha School management taken over by Suyam in October 2018, providing quality education to deserving needy especially slum dwellers children.
+SUYAM Charitable Trust was started and formally registered under Trust Act 
+(Regn. No.1163/99) in August 1999.
 
 Donations to this NGO have 50% tax exemption for Indian donors.
