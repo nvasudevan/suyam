@@ -4,6 +4,9 @@
 - id: more
   translation: More
 
+- id: view_more
+  translation: View More
+
 - id: read_more
   translation: Read More
 
