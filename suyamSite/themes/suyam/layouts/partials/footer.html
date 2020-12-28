@@ -31,7 +31,13 @@
           <!-- logo -->
           <a class="logo-footer" href="{{ site.BaseURL | relLangURL }}"><img class="img-fluid mb-4" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}"></a>
           <ul class="list-unstyled">
-            <li class="mb-4">{{ site.Params.address | markdownify }}</li>
+            <li class="mb-4">
+                {{ site.Params.address_1 | markdownify }}<br>
+                {{ site.Params.address_2 | markdownify }}<br>
+                {{ site.Params.address_town | markdownify }}<br>
+                {{ site.Params.address_city | markdownify }}<br>
+                {{ site.Params.address_country | markdownify }}
+            </li>
             <li class="mb-4">{{ site.Params.email | markdownify }}</li>
             <li class="mb-4">{{ site.Params.mobile | markdownify }}</li>
           </ul>
@@ -69,7 +75,7 @@
         <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
           <h4 class="text-white mb-5 text-uppercase">{{ i18n "activities" }}</h4>
           <ul class="list-unstyled">
-            {{ range first 3 (where site.RegularPages "Type" "activities")}}
+            {{ range first 3 (where site.RegularPages "Type" "post")}}
             <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>
