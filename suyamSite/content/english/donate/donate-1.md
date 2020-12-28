@@ -8,7 +8,7 @@ bg_image: "images/gallery/banner-2.jpg"
 description : "COVID-19 campaign"
 # taxonomy
 categories: ["Donate"]
-tags: ["giveindia", "covid"]
+tags: ["covid"]
 # Research image
 image: "images/gallery/covid.png"
 # donate url
@@ -24,8 +24,30 @@ come from various sectors of community asking for help, we knock the doors of
 donors and well wishers and seek support to reach the benefits to Slum 
 dwellers, Nomadic Tribes, Irulas, Migrant Workers and more.
 
-We believe our effort and activies has impacted over 2 million+ lives. nd 
-also get into rehabilitation support etc. Let us join together to reach out 
-support to more families through various modes of support.
+We believe our effort and activites has impacted over 2 million+ lives. Let us 
+join together to reach out support to more families through various modes of 
+support.
 
 Donations to this NGO have 50% tax exemption for Indian donors.
+
+#### Bank Details
+
+We also accept 'Donation in Kind' by bank transfer. For any queries, contact 
+Muthu (see Contact page).
+
+##### From within India (IMPS/NEFT/RTGS)
+
+* Bank: ICICI Bank Limited
+* Saving Bank A/c No: 603101272985
+* Account Name: Suyam Charitable Trust
+* Bank Address: 84, NSC Bose Road, Sowcarpet, Chennai 600079
+* RTGS/NEFT IFSC: ICIC0006031
+
+##### From abroad
+ 
+* Bank: ICICI Bank Limited
+* Saving Bank A/c No: 603101271750
+* Account Name: Suyam Charitable Trust
+* Bank Address: 84, NSC Bose Road, Sowcarpet, Chennai 600079
+* RTGS/NEFT IFSC: ICIC0006031
+

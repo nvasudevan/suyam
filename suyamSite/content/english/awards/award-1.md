@@ -8,18 +8,14 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "images/blog/post-1.jpg"
 # taxonomy
 categories: ["Award"]
-tags: ["SUN tv"]
 # meta description
 description : "Our founder Dr. Uma was awarded by SUN TV for her dedication to 
 helping slum children."
-# notice download link
-download_link : "#"
+# external ref url
+ref_url : "https://youtu.be/DzPPzZrv85Y"
 # type
-type: "post"
+type: "success_story"
 ---
-
-
-### About Award
 
 Dr. Uma was awarded by a local TV channel, SUN in April 2019 for her commitment to 
 helping children from disadvantaged backgrounds.

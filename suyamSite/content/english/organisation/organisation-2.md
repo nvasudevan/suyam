@@ -11,7 +11,7 @@ teaching staff. This is a primary school and is based on ICSE syllabus"
 image: "images/gallery/siragu-montessori-school.jpg"
 # taxonomy
 categories: ["School"]
-tags: ["School", "Vysarpadi", "Bharathamata"]
+tags: ["School", "Vysarpadi", "Bharathamatha"]
 # type
 type: "post"
 ---

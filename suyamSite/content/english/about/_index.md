@@ -7,18 +7,16 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "images/gallery/siragu-concepts-2.png"
 eduimage: "images/gallery/siragu-concepts-1.png"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Suyam's Mission"
 ---
 
 ## ABOUT OUR JOURNEY
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+#### Mission
+
+ * To provide the best possible education to the poor and the needy.
+ * Develop & deploy innovative and effective educational tools tailor-made
+   for downtrodden communities
+ * Endeavor to provide free education from primary till University level
+ * To continuously look at ways & means to develop downtrodden communities

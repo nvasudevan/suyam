@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://navkrish.net"
-title = "Suyam | Suyam Charity template"
+baseURL = "http://suyam.navkrish.net"
+title = "Suyam | Suyam Charitable Trust"
 theme = "suyam"
 # post pagination
 paginate = "6"
