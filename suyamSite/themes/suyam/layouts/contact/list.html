@@ -22,7 +22,13 @@
         {{ .Content }}
         <a href="tel:{{ site.Params.mobile }}" class="text-color h5 d-block">{{ site.Params.mobile }}</a>
         <a href="mailto:{{ site.Params.email }}" class="mb-5 text-color h5 d-block">{{ site.Params.email }}</a>
-        <p>{{ site.Params.address | markdownify }}</p>
+        <p>
+        {{ site.Params.address_1 | markdownify }}<br>
+        {{ site.Params.address_2 | markdownify }}<br>
+        {{ site.Params.address_town | markdownify }}<br>
+        {{ site.Params.address_city | markdownify }}<br>
+        {{ site.Params.address_country | markdownify }}
+        </p>
       </div>
     </div>
   </div>

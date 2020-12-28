@@ -131,11 +131,16 @@ logo = "images/logo.png"
 description = "Suyam charitable trust"
 author = "Suyam web team"
 # contact info
-address = "Suyam Charitable Trust"
+#address = "Suyam charitable Trust, No.22, Murthi Nagar St, Vyasarpadi, Chennai, Tamil Nadu 600039, India"
+address_1 = "Suyam Charitable Trust"
+address_2 = "No. 22, Murthi Nagar Street"
+address_town = "Vyasarpadi" 
+address_city = "Chennai - 600039" 
+address_country = "India" 
 mobile = "+91 98403 65819"
 email = "muthuram@suyam.org"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/xwkwwryg" # contact form works with https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # your id
 # top header
@@ -155,7 +160,7 @@ mailchimp_form_name = "b_bceba598e62a3e14b0a175d45_9078242174" # replace this co
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyA58qLsEyI9onQCfn-9Lbxrld_IKmZ4JOo"
 map_latitude = "13.114121"
 map_longitude = "80.261781"
