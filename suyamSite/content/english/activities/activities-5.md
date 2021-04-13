@@ -18,5 +18,5 @@ type: "post"
 
 ### About Activity
 
-Suyam Diwali 2020 Celebration
+Suyam Diwali 2020 Celebration at our school in Avadi.
 
