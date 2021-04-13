@@ -9,7 +9,7 @@ description : "Suyam Alumni - Chef Anandavinayagam"
 # taxonomy
 categories: ["success_story"]
 # Research image
-image: "images/gallery/anand-chef-02.png"
+image: "images/gallery/anand-chef-thumb.png"
 single_image: "images/gallery/anand-chef-full.jpeg"
 # external ref url
 ref_url : "https://htmi.ch/2020/11/htmi-dubai-team-wins-htmi-2020-global-innovation-challenge/"

@@ -14,7 +14,7 @@ helping slum children."
 # external ref url
 ref_url : "https://youtu.be/DzPPzZrv85Y"
 # type
-type: "success_story"
+type: "post"
 ---
 
 Dr. Uma was awarded by a local TV channel, SUN in April 2019 for her commitment to 

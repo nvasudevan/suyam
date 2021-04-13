@@ -2,36 +2,6 @@
 
 {{ $data := index site.Data site.Language.Lang }}
 
-<!-- about -->
-<section class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        {{ with .Params.Image }}
-        <img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="about image">
-        {{ end }}
-        {{ .Content }}
-      </div>
-    </div>
-  </div>
-</section>
-<!-- /about -->
-
-<!-- about -->
-<section class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        {{ with .Params.EduImage }}
-        <img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="about image">
-        {{ end }}
-        {{ .Content }}
-      </div>
-    </div>
-  </div>
-</section>
-<!-- /about -->
-
 <!-- funfacts -->
 {{ if $data.homepage.funfacts.enable }}
 {{ with $data.homepage.funfacts }}
@@ -54,9 +24,23 @@
 {{ end }}
 <!-- /funfacts -->
 
-<!-- success story -->
-{{ partial "success-story.html" . }}
-<!-- /success story -->
+<!-- about -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        {{ .Content }}
+        {{ with .Params.Image }}
+        <img class="img-fluid w-80 mb-4" src="{{ . | relURL }}" alt="about image">
+        {{ end }}
+        {{ with .Params.EduImage }}
+        <img class="img-fluid w-80 mb-4" src="{{ . | relURL }}" alt="about image">
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /about -->
 
 <!-- teacher -->
 {{ if $data.homepage.blog.enable }}
