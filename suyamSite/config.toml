@@ -1,30 +1,186 @@
-# STRONGBOX ENCRYPTED RESOURCE ; See https://github.com/uw-labs/strongbox
-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
-Oxju7EWRnKFcVczRYV1m9hRdLWTafwsilOg=
+######################## default configuration ####################
+baseURL = "http://suyam.navkrish.net"
+title = "Suyam | Suyam Charitable Trust"
+theme = "suyam"
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "suyam" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = [] # desable language from here
+
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/animate/animate.css"
+[[params.plugins.css]]
+link = "plugins/venobox/venobox.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/venobox/venobox.min.js"
+[[params.plugins.js]]
+link = "plugins/filterizr/jquery.filterizr.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/gmap.js"
+
+
+############################## navigation ###############################
+
+# main menu
+
+[[menu.main]]
+name = "activities"
+URL = "activities"
+weight = 2
+
+[[menu.main]]
+name = "donate"
+URL = "donate"
+weight = 3
+
+[[menu.main]]
+name = "awards"
+URL = "awards"
+weight = 4
+
+[[menu.main]]
+weight = 5
+name = "More"
+hasChildren = true
+
+  [[menu.main]]
+  parent = "More"
+  name = "organisation"
+  URL = "organisation"
+  weight = 7
+
+  [[menu.main]]
+  parent = "More"
+  name = "gallery"
+  URL = "gallery"
+  weight = 8
+
+  [[menu.main]]
+  parent = "More"
+  name = "volunteers"
+  URL = "volunteers"
+  weight = 9
+
+  [[menu.main]]
+  parent = "More"
+  name = "history"
+  URL = "history"
+  weight = 10
+
+[[menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 6
+
+
+# footer menu
+
+[[menu.footer]]
+name = "activities"
+URL = "activities"
+
+[[menu.footer]]
+name = "donate"
+URL = "donate"
+
+[[menu.footer]]
+name = "organisation"
+URL = "organisation"
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+# Meta data
+description = "Suyam charitable trust"
+author = "Suyam web team"
+# contact info
+#address = "Suyam charitable Trust, No.22, Murthi Nagar St, Vyasarpadi, Chennai, Tamil Nadu 600039, India"
+address_1 = "Suyam Charitable Trust"
+address_2 = "No. 22, Murthi Nagar Street"
+address_town = "Vyasarpadi"
+address_city = "Chennai - 600039"
+address_country = "India"
+mobile = "+91 98403 65819"
+email = "muthuram@suyam.org"
+# contact form action
+contact_form_action = "https://formspree.io/f/xwkwwryg" # contact form works with https://formspree.io
+# Google Analitycs
+google_analitycs_id = "" # your id
+# top header
+top_header = true
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
+
+# Subscription
+[params.subscription]
+enable = true
+# mailchimp subsciption
+mailchimp_form_action = "https://suyam.us7.list-manage.com/subscribe?u=bceba598e62a3e14b0a175d45&id=9078242174" # replace this url with yours
+mailchimp_form_name = "b_bceba598e62a3e14b0a175d45_9078242174" # replace this code with yours
+
+# google map
+[params.map]
+enable = false
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCQlP9Be4936-IhUhiNUjFNi1dvVQZBW3M"
+map_latitude = "13.114121"
+map_longitude = "80.261781"
+map_marker = "images/marker.png" # marker size 37*55 px
+
+############################# social site ########################
+[[params.social]]
+title = "facebook"
+icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+link = "https://www.facebook.com/public/Suyam-Charitable-Trust"
+
+[[params.social]]
+title = "twitter"
+icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+link = "http://twitter.com/suyam_awake"
+
+[[params.social]]
+title = "linkedin"
+icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+link = "http://linkedin.com/in/suyam-charitable-trust-3037609/"
+
+[[params.social]]
+title = "youtube"
+icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
+link = "https://www.youtube.com/channel/UCmwp6V5H5pCKC3h7oA9mnww"
+
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+home = "Home"
+
+# copyright
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
