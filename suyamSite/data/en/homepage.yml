@@ -45,22 +45,22 @@ banner_feature:
     # feature item loop
     - name : "Our Campaigns"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "We have a number of GiveIndia campaigns in progress (see the 'Campaigns' section for our list of campaigns) for which we seek your financial contribution. We also accept “Donation in Kind” directly to Suyam Trust. Bank transfer details can be found in “Bank details” section. For any queries, contact Muthu (see 'Contact' page)."
 
     # feature item loop
     - name : "Our Activities"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Suyam is always buzzing with activity. Our primary ambition is to inspire Montessori-style education to our children at two schools that we run (visit our schools page). Visit our activities page to see our current set of activities."
 
     # feature item loop
-    - name : "Appeals"
+    - name : "Urgent Appeals"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "At Suyam we educate and look after about 150 children, and so are often faced with significant challenges. At present we are in need of X. Please visit our Appeals section to see items which we are in dire need of."
 
     # feature item loop
-    - name : "Awards"
-      icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+    - name : "Achievements"
+      icon : "ti-medall" # icon pack : https://themify.me/themify-icons
+      content : "We were recently awarded X for Y. Please visit the awards section for a summary of our achievements."
 
 
 ############################## about ##################################
@@ -75,11 +75,31 @@ about:
     link : "about"
 
 
-############################# Activities ################################
-activities:
+############################## about ##################################
+bank_details:
   enable : true
-  title : "Our Appeals"
-  # activities item comes from "content/**/activities" folder.
+  title : "Bank details"
+  tax_comments: "SUYAM Charitable Trust was started and formally registered under Trust Act (Regn. No.1163/99) in August 1999. Donations to this NGO have 50% tax exemption for Indian donors."
+  accounts : 
+   - name: "From within India"
+     bank_name: "ICICI Bank Limited"
+     account_no: "Saving Bank A/c No: 603101272985"
+     account_name: "Suyam Charitable Trust"
+     bank_address: "84, NSC Bose Road, Sowcarpet, Chennai 600079"
+     bank_code: "RTGS/NEFT IFSC: ICIC0006031"
+
+   - name: "From abroad" 
+     bank_name: "ICICI Bank Limited"
+     account_no: "Saving Bank A/c No: 603101271750"
+     account_name: "Suyam Charitable Trust"
+     bank_address: "84, NSC Bose Road, Sowcarpet, Chennai 600079"
+     bank_code: "RTGS/NEFT IFSC: ICIC0006031"
+
+############################## Activities ################################
+#activities:
+#  enable : true
+#  title : "Our Appeals"
+#  # activities item comes from "content/**/activities" folder.
 
 ############################# Campaigns ################################
 donate:
@@ -87,12 +107,12 @@ donate:
   title : "Our Compaigns"
   # campaign item comes from "content/**/donate" folder.
 
-############################# Awards ################################
-awards:
-  enable : true
-  title : "Awards and Achievements"
-  # award item comes from "content/**/awards" folder.
-
+############################## Awards ################################
+#awards:
+#  enable : true
+#  title : "Awards and Achievements"
+#  # award item comes from "content/**/awards" folder.
+#
 
 ######################## Success story #############################
 success_story:
@@ -117,20 +137,17 @@ funfacts:
     - name : "SCHOOLS"
       count : "2"
 
-    - name : "TEACHERS"
-      count : "10"
-
     # funfact item loop
     - name : "STAFF"
-      count : "10"
+      count : "15"
 
     # funfact item loop
     - name : "STUDENTS"
-      count : "200"
+      count : "150"
 
     # funfact item loop
-    - name : "PROJECTS"
-      count : "10"
+    - name : "CAMPAIGNS"
+      count : "8"
 
 # funfact is for about page
 
