@@ -1,0 +1,38 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ with $data.homepage.bank_details }}
+<div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 col-sm-8">
+        <div class="bg-white p-25">
+          <h3 class="section-title">{{ .title | markdownify }}</h3>
+        </div>
+      </div>
+    </div>
+   {{ range .accounts }}
+    <div class="row">
+      <div class="col-lg-7 col-sm-8">
+        <div class="bg-white p-20">
+          <h4 class="section-title">{{ .name | markdownify }}</h4>
+          <p>{{ .bank_name | markdownify }}<br/>
+             {{ .account_no | markdownify }}<br/>
+             {{ .account_name | markdownify }}</br>
+             {{ .bank_address | markdownify }}</br>
+             {{ .bank_code | markdownify }}</br>
+          </p>
+          <br/>
+        </div>
+      </div>
+    </div>
+   {{ end }}
+    <div class="row">
+      <div class="col-lg-10 col-sm-8">
+        <div class="bg-white p-25">
+            <p><i>{{ .tax_comments | markdownify }}</i></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

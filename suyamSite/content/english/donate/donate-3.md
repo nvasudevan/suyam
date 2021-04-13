@@ -29,27 +29,3 @@ the date of feeding and the occasion.
 
 Through this successful initiative we can meet out the food cost as it is 
 second top of our operating expenses.
-
-Donations to this NGO have 50% tax exemption for Indian donors.
-
-#### Bank Details
-
-We also accept 'Donation in Kind' by bank transfer. For any queries, contact 
-Muthu (see Contact page).
-
-##### From within India (IMPS/NEFT/RTGS)
-
-* Bank: ICICI Bank Limited
-* Saving Bank A/c No: 603101272985
-* Account Name: Suyam Charitable Trust
-* Bank Address: 84, NSC Bose Road, Sowcarpet, Chennai 600079
-* RTGS/NEFT IFSC: ICIC0006031
-
-##### From abroad
- 
-* Bank: ICICI Bank Limited
-* Saving Bank A/c No: 603101271750
-* Account Name: Suyam Charitable Trust
-* Bank Address: 84, NSC Bose Road, Sowcarpet, Chennai 600079
-* RTGS/NEFT IFSC: ICIC0006031
-
