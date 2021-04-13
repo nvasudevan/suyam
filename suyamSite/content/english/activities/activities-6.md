@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Garden work at Siragu"
 # course thumbnail
-image: "images/activities/cyclone-nivar-small.jpeg"
+image: "images/activities/cyclone-nivar-thumb.png"
 # taxonomy
 categories: ["Activity"]
 tags: ["garden", "social"]
