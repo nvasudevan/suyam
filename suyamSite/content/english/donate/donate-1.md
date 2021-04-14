@@ -10,7 +10,7 @@ description : "COVID-19 campaign"
 categories: ["Donate"]
 tags: ["covid"]
 # Research image
-image: "images/gallery/covid.png"
+image: "images/gallery/covid-thumb.png"
 # donate url
 donate_url : "https://fundraisers.giveindia.org/campaigns/covid19-relief-work-by-suyam"
 # type

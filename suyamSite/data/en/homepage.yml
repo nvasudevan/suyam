@@ -45,12 +45,12 @@ banner_feature:
     # feature item loop
     - name : "Our Campaigns"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "We have a number of GiveIndia campaigns in progress (see the 'Campaigns' section for our list of campaigns) for which we seek your financial contribution. We also accept “Donation in Kind” directly to Suyam Trust. Bank transfer details can be found in “Bank details” section. For any queries, contact Muthu (see 'Contact' page)."
+      content : "We have a number of GiveIndia campaigns in progress (see the 'Donate' page for our list of campaigns) for which we seek your donation. We also accept 'Donation in Kind' directly to Suyam Trust. Bank transfer details can be found at the bottom of the 'Donate' page. For any queries, contact Muthu (see 'Contact' page)."
 
     # feature item loop
     - name : "Our Activities"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Suyam is always buzzing with activity. Our primary ambition is to inspire Montessori-style education to our children at two schools that we run (visit our schools page). Visit our activities page to see our current set of activities."
+      content : "Suyam is always buzzing with activity. Our primary ambition is to inspire Montessori-style education in our schools (see 'Organisation' section under 'More'). See our activities page for details."
 
     # feature item loop
     - name : "Urgent Appeals"
