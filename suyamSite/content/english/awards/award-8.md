@@ -1,22 +1,26 @@
 ---
-title: "Women Achiever Award"
-date: 2013-03-08
+title: "True Hero Award"
+date: 2017-07-17
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # taxonomy
 categories: ["Award"]
 # post thumbnail
-image: "images/blog/post-1.jpg"
+image: "images/gallery/awards/true_hero_award_merck_2017.png"
+single_image: "images/gallery/awards/true_hero_award_merck_2017.png"
 # meta description
-description : "Women Achievers Award by JCI Sivakasi Dynamic"
-# notice download link
-download_link : "#"
+description : "True Hero Award (2017) received from Merck India."
+# external ref url
+ref_url : "http://cms.newindianexpress.com/cities/chennai/2017/jul/17/poor-kids-get-their-true-hero-1629556.html"
 # type
-type: "post"
+type: "awards"
 ---
-
 
 ### About Award
 
-Dr. Uma from Suyam was awarded Women Achievers Award by JCI Sivakasi Dynamic.
+Dr. Uma from Suyam was awarded the *True Hero Award* by Merck India for her 
+efforts in teaching underprivileged kids.  Uma as picked by BetterIndia 
+(https://www.thebetterindia.com/). Unfortunately we can't seem to find the 
+original award page on the BetterIndia site and so we have had to settle for 
+the news article.

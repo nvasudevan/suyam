@@ -8,16 +8,16 @@ bg_image: "images/backgrounds/page-title.jpg"
 categories: ["Award"]
 tags: ["First Copy"]
 # post thumbnail
-image: "images/blog/post-1.jpg"
+image: "images/gallery/awards/women_achiever_award_2017-thumb.png"
+single_image: "images/gallery/awards/women_achiever_award_2017.png"
 # meta description
 description : "Women Achiever Award by First Copy Productions"
-# notice download link
-download_link : "#"
+# external ref url
+ref_url : "https://youtu.be/tQyhpaTVJog"
 # type
-type: "post"
+type: "awards"
 ---
-
 
 ### About Award
 
-Suyam was awarded Women Achiever Award by First Copy Productions.
+Dr. Uma from Suyam was awarded the *Women Achiever Award* for 2017 by First Copy Productions.

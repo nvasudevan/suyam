@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+<!-- awards -->
+<section class="section">
+  <div class="container">
+    <!-- awards list -->
+    <div class="row justify-content-center">
+      <!-- awards item -->
+      {{ range .Data.Pages }}
+      <div class="col-lg-4 col-sm-6 mb-5">
+        {{ .Render "awards" }}
+      </div>
+      {{ end }}
+    </div>
+    <!-- /awards list -->
+  </div>
+</section>
+<!-- /awards -->
+
+{{ end }}

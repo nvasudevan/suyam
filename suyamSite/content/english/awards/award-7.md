@@ -1,23 +1,24 @@
 ---
-title: "Women Achiever Award"
-date: 2017-01-29
+title: "Vocational Service Award"
+date: 2017-03-08
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # taxonomy
 categories: ["Award"]
-tags: ["Lioness"]
+tags: ["Rotary"]
 # post thumbnail
-image: "images/blog/post-1.jpg"
+single_image: "images/gallery/awards/vocational_award_rotary_2017.png"
+image: "images/gallery/awards/vocational_award_rotary_2017.png"
 # meta description
-description : "Women Achiever Award by Lioness Council"
-# notice download link
-download_link : "#"
+description : "Vocational Service Award received from Rotary Club Chennai."
+# external ref url
+ref_url : "https://youtu.be/IX3pRWCPSS8"
 # type
-type: "post"
+type: "awards"
 ---
 
 
 ### About Award
 
-Dr. Uma from Suyam was awarded Women Achiever Award by Lioness Council.
+Dr. Uma from Suyam was awarded Vocational Service Award by Rotary Club Chennai.
