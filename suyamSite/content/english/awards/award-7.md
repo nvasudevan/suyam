@@ -6,7 +6,6 @@ draft: false
 bg_image: "images/gallery/award_ribbon.jpg"
 # taxonomy
 categories: ["Award"]
-tags: ["Rotary"]
 # post thumbnail
 single_image: "images/gallery/awards/vocational_award_rotary_2017.png"
 image: "images/gallery/awards/vocational_award_rotary_2017.png"

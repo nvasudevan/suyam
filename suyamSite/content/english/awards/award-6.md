@@ -6,7 +6,6 @@ draft: false
 bg_image: "images/gallery/award_ribbon.jpg"
 # taxonomy
 categories: ["Award"]
-tags: ["Akkineni"]
 # post thumbnail
 image: "images/gallery/awards/seva_ratna_akkineni_ceremony_2016.png"
 single_image: "images/gallery/awards/seva_ratna_akkineni_ceremony_2016.png"
