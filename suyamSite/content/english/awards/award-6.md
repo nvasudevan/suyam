@@ -3,7 +3,7 @@ title: "Seva Ratna Award"
 date: 2016-12-14
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/gallery/award_ribbon.jpg"
 # taxonomy
 categories: ["Award"]
 tags: ["Akkineni"]

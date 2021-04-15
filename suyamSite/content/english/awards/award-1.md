@@ -3,7 +3,7 @@ title: "Namma Ooru Hero Award"
 date: 2019-04-04T09:00:00+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/gallery/award_ribbon.jpg"
 # post thumbnail
 image: "images/gallery/awards/namma-ooru-hero-thumb.jpeg"
 single_image: "images/gallery/awards/namma_ooru_hero_single.png"

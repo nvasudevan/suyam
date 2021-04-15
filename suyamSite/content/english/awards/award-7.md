@@ -3,7 +3,7 @@ title: "Vocational Service Award"
 date: 2017-03-08
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/gallery/award_ribbon.jpg"
 # taxonomy
 categories: ["Award"]
 tags: ["Rotary"]
