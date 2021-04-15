@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+<!-- media details -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="d-flex">
+          <div class="text-center mr-4">
+            <div class="p-4 bg-primary text-white">
+              <span class="h2 d-block">{{ .PublishDate.Format "06"}}</span> {{ .PublishDate.Format "02 Jan, 2006"}}
+            </div>
+          </div>
+          <!-- media content -->
+          <div class="content">
+            {{ .Content }}
+            <a href="{{ .Params.Ref_url | safeURL }}" target="_blank" class="btn btn-primary">{{ i18n "view_more" }}</a></li>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /media details -->
+
+{{ end }}

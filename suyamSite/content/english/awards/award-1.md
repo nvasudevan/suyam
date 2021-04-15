@@ -1,5 +1,5 @@
 ---
-title: "Namma ooru hero award"
+title: "Namma Ooru Hero Award"
 date: 2019-04-04T09:00:00+06:00
 draft: false
 # page title background image

@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+<!-- media -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <ul class="list-unstyled">
+          <!-- notice item -->
+          {{ range .Data.Pages }}
+          {{ .Render "media" }}
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /media -->
+
+{{ end }}

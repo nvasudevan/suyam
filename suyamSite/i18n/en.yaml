@@ -64,23 +64,8 @@
 - id: donations
   translation: Donations
 
-- id: duration
-  translation: duration
-
-- id: weekly
-  translation: weekly
-
-- id: fee
-  translation: fee
-
 - id: location
   translation: location
-
-- id: entry_fee
-  translation: entry fee
-
-- id: event_speaker
-  translation: Event Speakers
 
 - id: history
   translation: History
@@ -115,9 +100,6 @@
 - id: projects
   translation: Projects
 
-- id: new_notice
-  translation: new notice
-
 - id: call
   translation: call
 
@@ -129,9 +111,6 @@
 
 - id: interest
   translation: SUMMARY OF ACTIVITIES/INTERESTS
-
-- id: staff
-  translation: Staff
 
 - id: trust
   translation: Trust

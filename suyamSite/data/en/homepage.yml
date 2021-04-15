@@ -110,7 +110,7 @@ success_story:
   # story item comes from "content/**/success_story" folder.
 
 #  enable : true
-#  bg_image : "images/backgrounds/success-story.jpg"
+#  bg_image : "images/banner-.jpg"
 #  title : "Success Stories"
 #  content : "Suyam slate 2017"
 #  # video link

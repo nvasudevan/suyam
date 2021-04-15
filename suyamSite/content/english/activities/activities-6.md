@@ -3,7 +3,7 @@ title: "Cyclone Nivar"
 date: 2020-11-27T10:00:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/gallery/siragu-farming-2.jpg"
 # meta description
 description : "Garden work at Siragu"
 # course thumbnail

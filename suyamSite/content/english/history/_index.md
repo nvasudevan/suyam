@@ -1,13 +1,13 @@
 ---
-title: "History of Suyam"
+title: "Our Journey, Our History"
 date: 2020-12-12T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/gallery/uma_muthu_history.jpg"
 # about image
 image: "images/gallery/siragu-concepts-3.png"
 # meta description
-description : "Our history, how we came about to be?"
+description : "Our history, where did it all start?"
 # type
 type: "post"
 ---
@@ -19,11 +19,10 @@ registered as a public charitable trust in 1999 by Dr. Uma and Muthuram. Our
 main objective was to provide education to children at primary schools, to 
 provide additional tuitions, entertainment activities, and organise sports 
 activities. We then extended our activities to include youth programs, creative 
-stimulation camps, blood donation camps, and eye donation awareness camps. Dr.  
-Uma, being a scout ranger, formed VISHAL ranger team. The VISHAL team organised 
+stimulation camps, blood donation camps, and eye donation awareness camps.
+Dr. Uma, being a scout ranger, formed VISHAL ranger team. The VISHAL team organised 
 several social activities, and forest trekkings. In 1999, after having served 
-our local comminities over 12 years, we registed as 'Suyam Charitable 
-trust'.   
+our local comminities over 12 years, we registed as 'Suyam Charitable trust'.   
 
 Suyam's activities fall under three areas: education, medical assistance and 
 awareness activities.
