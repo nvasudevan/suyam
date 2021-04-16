@@ -9,8 +9,6 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 # post thumbnail
 image: "images/blog/post-1.jpg"
 # taxonomy
-categories: ["Food"]
-tags: ["Covid", "Food"]
 # type
 type: "post"
 ---

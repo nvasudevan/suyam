@@ -4,16 +4,6 @@ slider:
   bg_image : "images/gallery/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Appeals"
-      content : "At Suyam we educate and look after about 150 children, and so are often faced with challenges which require immediate attention. At present we are urgently in need of X."
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Call now"
-        link : "appeals"
-
     - title : "Campaigns in progress"
       content : "We are currently in several campaigns to raise funds for our projects"
       animation_in : "left"

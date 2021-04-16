@@ -8,7 +8,7 @@ bg_image: "images/gallery/award_ribbon.jpg"
 image: "images/gallery/awards/namma-ooru-hero-thumb.jpeg"
 single_image: "images/gallery/awards/namma_ooru_hero_single.png"
 # taxonomy
-categories: ["award"]
+categories: ["Awards"]
 # meta description
 description : "Our founder Dr. Uma was awarded by SUN TV for her dedication to 
 helping slum children."
