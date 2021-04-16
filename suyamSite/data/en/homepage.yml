@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "Campaigns in progress"
-      content : "We are currently in several campaigns to raise funds for our projects"
+      content : "We have several campaigns active at present to raise funds for our projects. Click on the Donate link for details."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
