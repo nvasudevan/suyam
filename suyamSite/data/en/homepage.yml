@@ -4,6 +4,16 @@ slider:
   bg_image : "images/gallery/banner-1.jpg"
   slider_item:
     # slider item loop
+    - title : "Appeals"
+      content : "At Suyam we educate and look after about 150 children, and so are often faced with challenges which require immediate attention. At present we are urgently in need of X."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Call now"
+        link : "appeals"
+
     - title : "Campaigns in progress"
       content : "We are currently in several campaigns to raise funds for our projects"
       animation_in : "left"
@@ -11,7 +21,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Donate now"
+        label : "Donate"
         link : "donate"
 
     # slider item loop
@@ -34,7 +44,7 @@ banner_feature:
     # feature item loop
     - name : "Our Campaigns"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "We have a number of GiveIndia campaigns in progress (see the 'Donate' page for our list of campaigns) for which we seek your donation. We also accept 'Donation in Kind' directly to Suyam Trust. Bank transfer details can be found at the bottom of the 'Donate' page. For any queries, contact Muthu (see 'Contact' page)."
+      content : "We have a number of *GiveIndia* campaigns in progress (see the 'Donate' page for the list of campaigns) for which we seek your donation. We also accept 'Donation in Kind' directly to Suyam Trust. Bank transfer details can be found at the bottom of the 'Donate' page. For any queries, contact Muthu (see 'Contact' page)."
 
     # feature item loop
     - name : "Our Activities"
@@ -42,14 +52,14 @@ banner_feature:
       content : "Suyam is always buzzing with activity. Our primary ambition is to inspire Montessori-style education in our schools (see 'Organisation' section under 'More'). See our activities page for details."
 
     # feature item loop
-    - name : "Urgent Appeals"
+    - name : "In the Media"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "At Suyam we educate and look after about 150 children, and so are often faced with significant challenges. At present we are in need of X. Please visit our Appeals section to see items which we are in dire need of."
+      content : "Over the years, Suyam's achievements and progress have not gone unnoticed. Visit our media section to get a glimpse of our coverage in the media."
 
     # feature item loop
     - name : "Achievements"
       icon : "ti-medall" # icon pack : https://themify.me/themify-icons
-      content : "We were recently awarded X for Y. Please visit the awards section for a summary of our achievements."
+      content : "Our 30 years dedication to improving the lives of the underprivileged has won as accolades. Visit our awards section for a summary of our achievements."
 
 
 ############################## about ##################################
