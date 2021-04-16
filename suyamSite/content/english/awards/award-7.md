@@ -5,7 +5,6 @@ draft: false
 # page title background image
 bg_image: "images/gallery/award_ribbon.jpg"
 # taxonomy
-categories: ["Awards"]
 # post thumbnail
 single_image: "images/gallery/awards/vocational_award_rotary_2017.png"
 image: "images/gallery/awards/vocational_award_rotary_2017.png"

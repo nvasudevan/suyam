@@ -7,8 +7,6 @@ bg_image: "images/gallery/banner-2.jpg"
 # meta description
 description : "Campaign to support our Siragu Montessori School."
 # taxonomy
-categories: ["Donate"]
-tags: ["siragu"]
 # image
 image: "images/gallery/siragu-montessori-school.png"
 # donate url

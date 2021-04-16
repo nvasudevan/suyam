@@ -7,8 +7,6 @@ bg_image: "images/gallery/banner-2.jpg"
 # meta description
 description : "COVID-19 campaign"
 # taxonomy
-categories: ["Donate"]
-tags: ["covid"]
 # Research image
 image: "images/gallery/covid-thumb.png"
 # donate url

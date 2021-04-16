@@ -7,8 +7,6 @@ bg_image: "images/gallery/banner-2.jpg"
 # meta description
 description : "Campaign to sponsor our Bharathamatha school"
 # taxonomy
-categories: ["Donate"]
-tags: ["bharathamatha"]
 # image
 image: "images/gallery/donate-bharathamatha.jpeg"
 # donate url

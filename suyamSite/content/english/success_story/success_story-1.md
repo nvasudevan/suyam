@@ -7,7 +7,6 @@ bg_image: "images/gallery/anand-chef-01.png"
 # meta description
 description : "Suyam Alumni - Chef Anandavinayagam"
 # taxonomy
-categories: ["success_story"]
 # Research image
 image: "images/gallery/anand-chef-thumb.png"
 single_image: "images/gallery/anand-chef-full.jpeg"

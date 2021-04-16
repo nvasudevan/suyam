@@ -10,7 +10,6 @@ description : "Photos of our Siragu Garden"
 image: "images/gallery/siragu-farming-1.jpg"
 image_list: ["images/gallery/siragu-farming-1.jpg", "images/gallery/siragu-farming-2.jpg"]
 # taxonomy
-categories: ["gallery"]
 # type
 type: "gallery"
 ---

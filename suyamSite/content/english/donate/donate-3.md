@@ -7,8 +7,6 @@ bg_image: "images/gallery/banner-2.jpg"
 # meta description
 description : "Campaign to sponsor a meal for residential children at Siragu"
 # taxonomy
-categories: ["Donate"]
-tags: ["siragu"]
 # image
 image: "images/gallery/siragu-meal-01-short.png"
 # donate url

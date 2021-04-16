@@ -7,8 +7,6 @@ bg_image: "images/gallery/banner-2.jpg"
 # meta description
 description : "Campaign to sponsor Diwali 2020 at Siragu"
 # taxonomy
-categories: ["Donate"]
-tags: ["diwali"]
 # image
 image: "images/gallery/donate-diwali.png"
 # donate url

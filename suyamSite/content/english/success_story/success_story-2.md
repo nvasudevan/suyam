@@ -7,7 +7,6 @@ bg_image: "images/gallery/banner-2.jpg"
 # meta description
 description : "Alumni speak - what our alumni have to say"
 # taxonomy
-categories: ["success_story"]
 # image
 image: "images/gallery/alumni-speak-02.png"
 single_image: "images/gallery/alumni-speak-01.png"

@@ -9,7 +9,6 @@ description : "Photos of Siragu school"
 # post thumbnail
 image: "images/gallery/siragu-montessori-school.jpg"
 # taxonomy
-categories: ["gallery"]
 # type
 type: "gallery"
 ---

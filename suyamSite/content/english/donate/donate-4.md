@@ -7,8 +7,6 @@ bg_image: "images/gallery/banner-2.jpg"
 # meta description
 description : "Campaign to sponsor a child's education"
 # taxonomy
-categories: ["Donate"]
-tags: ["education"]
 # image
 image: "images/gallery/donate-child-education-02.jpg"
 # donate url

@@ -7,7 +7,6 @@ bg_image: "images/gallery/banner-2.jpg"
 # meta description
 description : "Campaign to sponsor a teacher at Siragu"
 # taxonomy
-categories: ["Donate"]
 # image
 image: "images/gallery/banner-01-short.png"
 # donate url
