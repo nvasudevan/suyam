@@ -1,6 +1,6 @@
 ---
 title: "Alumni Anandavinayagam"
-date: 2019-07-06T15:27:17+06:00
+date: 2020-11-19
 draft: false
 # page title background image
 bg_image: "images/gallery/anand-chef-01.png"
@@ -16,7 +16,7 @@ ref_url : "https://htmi.ch/2020/11/htmi-dubai-team-wins-htmi-2020-global-innovat
 type: "success_story"
 ---
 
-Suyam Alumni *Chef* Anandavinayagam currently pursuing Diploma in Culinary Arts 
+Suyam Alumni Chef **Anandavinayagam** currently pursuing Diploma in Culinary Arts 
 at HTMi Dubai participated in Global Innovation Challenge with his 3 member 
 team and his team has won this prestegious challenge. Our heartfelt gratitude 
 for your generosity which continues to influence the lives of each Suyam 

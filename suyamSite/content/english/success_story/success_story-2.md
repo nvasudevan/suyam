@@ -1,6 +1,6 @@
 ---
 title: "Alumni Speak"
-date: 2019-07-06T15:27:17+06:00
+date: 2020-10-10
 draft: false
 # page title background image
 bg_image: "images/gallery/banner-2.jpg"
