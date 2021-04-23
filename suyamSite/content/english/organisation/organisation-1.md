@@ -15,7 +15,7 @@ tags: ["School", "Siragu"]
 type: "post"
 ---
 
-### Avadi
+### Palavedu Pettai
 
 Our flagship school was founded in 2000, and is situated in Palavedu Pettai 
 Village near Avadi. We have about 400 students studying here, of which 150 are 
@@ -24,8 +24,4 @@ residential. The school is supported by 25 teaching staff, and 15 support staff.
 ### Classes and Syllabus
 
 The school follows ICSE syllabus and has classes running from KinderGarten (KG) to XII.
-
-
-
-
 

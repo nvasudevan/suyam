@@ -10,23 +10,19 @@ description : "Our Bharathamata school in Vyasarpadi"
 image: "images/gallery/bharathamatha-thumb.jpg"
 # taxonomy
 categories: ["School"]
-tags: ["School", "Vysarpadi"]
+tags: ["School", "Vyasarpadi"]
 # type
 type: "post"
 ---
 
-### Avadi
+### Vyasarpadi
 
-The Bharathamatha school in Vysarpadi was founded in 2005 to provide education 
-for slum dwellers.  We have a strength of 100 students of which 15 are 
+The Bharathamatha school in Vyasarpadi was founded in 2005 to provide education 
+for slum dwellers. We have a strength of 100 students of which 15 are 
 residential. The school is supported by 8 teaching staff, and 2 support staff. 
 
 ### Syllabus and Classes
 
 The school follows ICSE syllabus and runs classes from KinderGarden (KG) to Vth 
 grade.
-
-
-
-
 

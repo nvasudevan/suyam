@@ -121,9 +121,3 @@ Suyam is now run by a team of trustees:
 * Mr. K. J. Prabhu - Founder Trustee
 * Mr. Francin Prabhu - Trustee
 * Mr. C. A. Ramakrishnan - Trustee
-#
-#  
-
-### Alumni
-
-Late Mr. Ramakrishnan
