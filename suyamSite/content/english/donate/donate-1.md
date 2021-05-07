@@ -1,16 +1,16 @@
 ---
 title: "COVID-19 Relief"
-date: 2019-07-06T15:27:17+06:00
+date: 2021-05-07T10:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/gallery/banner-2.jpg"
 # meta description
-description : "COVID-19 campaign"
+description : "COVID-19 - Covid Management Suyam"
 # taxonomy
 # Research image
 image: "images/gallery/covid-thumb.png"
 # donate url
-donate_url : "https://fundraisers.giveindia.org/campaigns/covid19-relief-work-by-suyam"
+donate_url : "https://fundraisers.giveindia.org/fundraisers/covid-management-suyam"
 # type
 type: "donate"
 ---
