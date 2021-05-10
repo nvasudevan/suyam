@@ -78,11 +78,11 @@ bank_details:
      bank_code: "RTGS/NEFT IFSC: ICIC0006031"
 
    - name: "From abroad" 
-     bank_name: "ICICI Bank Limited"
-     account_no: "Saving Bank A/c No: 603101271750"
+     bank_name: "State Bank of India (Branch code: 00691)"
+     account_no: "40136242314 (FCRA savings account)"
      account_name: "Suyam Charitable Trust"
-     bank_address: "84, NSC Bose Road, Sowcarpet, Chennai 600079"
-     bank_code: "RTGS/NEFT IFSC: ICIC0006031"
+     bank_address: "FCRA Cell, 4th Floor, SBI New Delhi Main Branch, 11, Sansad Marg, New Delhi 110001"
+     bank_code: "SBIN0000691 (IFSC), SBININBB104 (SWIFT)"
 
 ############################## Activities ################################
 #activities:

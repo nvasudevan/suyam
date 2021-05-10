@@ -4,7 +4,7 @@
 <div>
   <div class="container">
     <div class="row">
-      <div class="col-lg-10 col-sm-8">
+      <div class="col-lg-11 col-sm-8">
         <div class="bg-white p-25">
           <h3 class="section-title">{{ .title | markdownify }}</h3>
         </div>
@@ -12,14 +12,15 @@
     </div>
    {{ range .accounts }}
     <div class="row">
-      <div class="col-lg-7 col-sm-8">
+      <div class="col-lg-11 col-sm-8">
         <div class="bg-white p-20">
           <h4 class="section-title">{{ .name | markdownify }}</h4>
-          <p>{{ .bank_name | markdownify }}<br/>
-             {{ .account_no | markdownify }}<br/>
-             {{ .account_name | markdownify }}</br>
-             {{ .bank_address | markdownify }}</br>
-             {{ .bank_code | markdownify }}</br>
+          <p>
+          <b><i>Bank</i></b>: {{ .bank_name | markdownify }}<br/>
+          <b><i>Bank Address</i></b>: {{ .bank_address | markdownify }}</br>
+          <b><i>Account No</i></b>: {{ .account_no | markdownify }}<br/>
+          <b><i>Account Name</i></b>: {{ .account_name | markdownify }}</br>
+          <b><i>IFSC/SWIFT</i></b>: {{ .bank_code | markdownify }}</br>
           </p>
           <br/>
         </div>
