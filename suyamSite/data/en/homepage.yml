@@ -70,12 +70,19 @@ bank_details:
   title : "Bank details"
   tax_comments: "SUYAM Charitable Trust was started and formally registered under Trust Act (Regn. No.1163/99) in August 1999. Donations to this NGO have 50% tax exemption for Indian donors."
   accounts : 
-   - name: "From within India"
+   - name: "From within India (ICICI)"
      bank_name: "ICICI Bank Limited"
      account_no: "Saving Bank A/c No: 603101272985"
      account_name: "Suyam Charitable Trust"
      bank_address: "84, NSC Bose Road, Sowcarpet, Chennai 600079"
      bank_code: "RTGS/NEFT IFSC: ICIC0006031"
+
+   - name: "From within India (SBI)"
+     bank_name: "State Bank of India"
+     account_no: "10186487064"
+     account_name: "Suyam Charitable Trust"
+     bank_address: "M K B Nagar, Chennai"
+     bank_code: "IFSC: SBIN0007992"
 
    - name: "From abroad" 
      bank_name: "State Bank of India (Branch code: 00691)"
