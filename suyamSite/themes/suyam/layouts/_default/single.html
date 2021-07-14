@@ -28,6 +28,9 @@
           <!-- blog contect -->
           <div class="col-12 mb-5">
             {{ .Content }}
+            {{ if .Params.ref_url_enable }}
+            <a href="{{ .Params.Ref_url | safeURL }}" target="_blank" class="btn btn-primary">{{ i18n "view_more" }}</a></li>
+            {{- end }}
           </div>
         </div>
       </div>
